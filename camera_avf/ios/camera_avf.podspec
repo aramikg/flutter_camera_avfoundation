@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 Fork of camera_avf with some additional features
                        DESC
   s.homepage         = 'https://github.com/flutter/packages'
-  s.license          = { :type => 'BSD', :file => '../LICENSE' }
+  s.license          = { :type => 'BSD', :file => 'camera_avf/ios/LICENSE' }
   s.author           = { 'Aramik Gharachehdaghi' => 'a.mik@me.com' }
   s.source           = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git', :tag => s.version.to_s }
 
