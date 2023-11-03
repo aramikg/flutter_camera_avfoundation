@@ -11,7 +11,8 @@ Fork of camera_avf with some additional features
   s.homepage         = 'https://github.com/flutter/packages'
   s.license          = { :type => 'BSD', :file => '../LICENSE' }
   s.author           = { 'Aramik Gharachehdaghi' => 'a.mik@me.com' }
-  s.source           = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git' }
+  s.source           = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git', :tag => s.version.to_s }
+
   s.documentation_url = 'https://github.com/aramikg/flutter_camera_avfoundation'
   s.source_files = 'Classes/**/*.{h,m}'
   s.public_header_files = 'Classes/**/*.h'
