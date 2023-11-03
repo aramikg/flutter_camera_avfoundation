@@ -14,9 +14,9 @@ Fork of camera_avf with some additional features
   s.source           = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git', :tag => s.version.to_s }
 
   s.documentation_url = 'https://github.com/aramikg/flutter_camera_avfoundation'
-  s.source_files = 'Classes/**/*.{h,m}'
-  s.public_header_files = 'Classes/**/*.h'
-  s.module_map = 'Classes/CameraPlugin.modulemap'
+  s.source_files = 'camera_avf/ios/Classes/**/*.{h,m}'
+  s.public_header_files = 'camera_avf/ios/Classes/**/*.h'
+  s.module_map = 'camera_avf/ios/Classes/CameraPlugin.modulemap'
   s.dependency 'Flutter'
 
   s.platform = :ios, '11.0'
