@@ -177,25 +177,25 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/flutter",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter_driver",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/flutter_driver",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/flutter_driver",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/flutter_web_plugins",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -207,7 +207,7 @@
     },
     {
       "name": "fuchsia_remote_debug_protocol",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/fuchsia_remote_debug_protocol",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/fuchsia_remote_debug_protocol",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -243,7 +243,7 @@
     },
     {
       "name": "integration_test",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/integration_test",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/integration_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -399,7 +399,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/aramik/development/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -554,7 +554,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-10-26T05:32:32.036158Z",
+  "generated": "2023-11-04T02:56:04.569923Z",
   "generator": "pub",
-  "generatorVersion": "3.1.4"
+  "generatorVersion": "3.1.2"
 }

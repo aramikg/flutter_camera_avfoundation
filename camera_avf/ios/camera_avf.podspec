@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'camera_avf'
-  s.version          = '0.0.4'
+  s.version          = '0.0.5'
   s.summary          = 'Flutter Camera'
   s.description      = <<-DESC
 Fork of camera_avf with some additional features
@@ -11,7 +11,7 @@ Fork of camera_avf with some additional features
   s.homepage         = 'https://github.com/aramikg/flutter_camera_avfoundation'
   s.license          = { :type => 'BSD', :file => 'camera_avf/ios/LICENSE' }
   s.author           = { 'Aramik Gharachehdaghi' => 'a.mik@me.com' }
-  s.source = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git', :tag => '0.0.4' }
+  s.source = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git', :tag => '0.0.5' }
 
 
   s.documentation_url = 'https://github.com/aramikg/flutter_camera_avfoundation'

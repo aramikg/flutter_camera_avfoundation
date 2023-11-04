@@ -51,13 +51,13 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/flutter",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/aramik/development/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/aramik/development/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/aramik/fvm/versions/3.10.5/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -164,7 +164,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-11-03T19:38:01.749811Z",
+  "generated": "2023-11-04T02:56:02.519655Z",
   "generator": "pub",
-  "generatorVersion": "3.1.4"
+  "generatorVersion": "3.1.2"
 }
