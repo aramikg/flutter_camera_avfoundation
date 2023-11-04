@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'camera_avf'
-  s.version          = '0.0.9'
+  s.version          = '0.0.10'
   s.summary          = 'Flutter Camera'
   s.description      = <<-DESC
 A Flutter plugin to use the camera from your Flutter app.
@@ -11,7 +11,7 @@ A Flutter plugin to use the camera from your Flutter app.
   s.homepage         = 'https://github.com/aramikg/flutter_camera_avfoundation'
   s.license          = { :type => 'BSD', :file => 'LICENSE' }
   s.author           = { 'Aramik' => 'a.mik@me.com' }
-  s.source           = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation.git', :tag => '0.0.9' }
+  s.source           = { :git => 'https://github.com/aramikg/flutter_camera_avfoundation/tree/main/ios', :tag => '0.0.10' }
   s.documentation_url = 'https://github.com/aramikg/flutter_camera_avfoundation'
   s.source_files = 'Sources/**/*.{h,m}'
   s.public_header_files = 'Sources/**/*.h'
