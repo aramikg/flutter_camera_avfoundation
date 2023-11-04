@@ -5,7 +5,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:camera_platform_interface/camera_platform_interface.dart';
+import 'package:camera_platform_interface2/camera_platform_interface.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
@@ -80,7 +80,7 @@ class AVFoundationCamera extends CameraPlatform {
           name: camera['name']! as String,
           lensDirection: parseCameraLensDirection(camera['lensFacing']! as String),
           sensorOrientation: camera['sensorOrientation']! as int,
-          fieldOfView: camera['fieldOfView'] as int? ?? 0,
+          fieldOfView: camera['fieldOfView'] as double? ?? 0,
         );
       }).toList();
     } on PlatformException catch (e) {
