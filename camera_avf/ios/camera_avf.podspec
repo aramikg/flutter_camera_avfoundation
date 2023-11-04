@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'camera_avf'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'Flutter Camera'
   s.description      = <<-DESC
 Fork of camera_avf with some additional features
